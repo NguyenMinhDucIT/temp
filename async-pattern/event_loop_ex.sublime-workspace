@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"result"
+			],
+			[
+				"s",
+				"subfolder"
+			],
+			[
+				"writeF",
+				"writeFilePromise"
+			],
+			[
+				"readF",
+				"readFilePromise"
+			],
+			[
+				"log",
+				"console.log"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"server",
+				"server.listen"
+			],
+			[
+				"flatt",
+				"flattenDeep"
+			],
+			[
+				"pat",
+				"path.resolve"
+			],
+			[
+				"base",
+				"baseName"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"lo",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"node",
+				"Nodejs::User File Settings"
+			],
+			[
+				"git",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"base",
+				"Base Encoding: Base64 Decode Selection(s)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"po",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"log",
+				"Log Highlight: Generate Syntax & Theme"
+			],
+			[
+				"pow",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"npm",
+			"ls",
+			"alo",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kali/web/nodejs_learn/subfolder/result_async_read.txt",
+		"/home/kali/web/nodejs_learn/subfolder/second.txt",
+		"/home/kali/web/nodejs_learn/sort_of_block_coded.js",
+		"/home/kali/web/nodejs_learn/event_loop_ex.js",
+		"/home/kali/web/nodejs_learn/package.json",
+		"/home/kali/web/nodejs_learn/7-mind-grenade.js",
+		"/home/kali/web/nodejs_learn/toke_git",
+		"/home/kali/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/kali/web/nodejs_learn/11-fs-async.js",
+		"/home/kali/web/nodejs_learn/.gitignore",
+		"/home/kali/web/nodejs_learn/12-http.js",
+		"/home/kali/web/nodejs_learn/10-fs-sync.js",
+		"/home/kali/web/nodejs_learn/subfolder/result.txt",
+		"/home/kali/web/nodejs_learn/subfolder/first.txt",
+		"/home/kali/web/nodejs_learn/3-module.js",
+		"/home/kali/web/nodejs_learn/4-names.js",
+		"/home/kali/web/nodejs_learn/5-utils.js",
+		"/home/kali/web/nodejs_learn/6-alternative-flavor.js",
+		"/home/kali/web/nodejs_learn/8-os-module.js",
+		"/home/kali/web/nodejs_learn/9-path-module.js",
+		"/home/kali/web/nodejs_learn/2-module.js",
+		"/home/kali/web/nodejs_learn/app.js",
+		"/home/kali/web/nodejs_learn/1-intro.js",
+		"/home/kali/attt_hou/pico_ctf/crack_me/crackme.py",
+		"/home/kali/attt_hou/pico_ctf/ape.py",
+		"/home/kali/attt_hou/pico_ctf/transformation/ape.py",
+		"/home/kali/attt_hou/pico_ctf/transformation/get_flag.sh",
+		"/home/kali/attt_hou/pico_ctf/keygen_me/some_b64",
+		"/home/kali/attt_hou/pico_ctf/keygen_me/keygenme-trial.py",
+		"/home/kali/attt_hou/hacker_1/sth",
+		"/home/kali/attt_hou/hacker_1/abe.py",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day9/backup.sh",
+		"/home/kali/TryHackMe/anonymous/clean.sh",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/conn.sh",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/long_line.txt",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/previous_short_line.txt",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/short_line.txt",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/prev_long_line.txt",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/get_flag.py",
+		"/home/kali/attt_hou/root_me/foren_find_the_cat/string_data.txt",
+		"/home/kali/attt_hou/root_me/foren_ugly_duckling/duckycode.txt",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/ch13",
+		"/home/kali/attt_hou/root_me/psh_injection/pwsh_rev_shell.ps1",
+		"/home/kali/attt_hou/root_me/shift_cipher/ape.py",
+		"/home/kali/attt_hou/root_me/cisco_pass/ch15.txt",
+		"/home/kali/attt_hou/root_me/Monoalphabetic/apy.py",
+		"/home/kali/attt_hou/root_me/forensic_web_atk/ch13.txt",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day2/rev_shell.php",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day2/jpeg_2_rev_shell.php",
+		"/home/kali/attt_hou/root_me/twitter_auth_root_me/session_value",
+		"/home/kali/attt_hou/root_me/twitter_auth_root_me/someshit.txt",
+		"/home/kali/attt_hou/root_me/ethernet_frame/get_data.py",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day2/11_test.php",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day2/3_web_shell.php",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day2/jpeg_rev_shell.php",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/ape.py",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day1/clean_js_obs3.js",
+		"/home/kali/TryHackMe/Advent_of_cyber_2/day1/login.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "event_loop_ex.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
